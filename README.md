@@ -10,7 +10,7 @@
 - CompTIA Security+
 - Cisco CCNA
 - Red Hat Certified System Administrator (RHCSA)
-- CompTIA CYSA+
+- CompTIA CySA+
 - Splunk Core Power User
 - CSA CCSK
 - Microsoft AZ-500
