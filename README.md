@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications</h2>
 
-- CompTIA Security+
+- CompTIA Security+ 
 - Cisco CCNA
 - Red Hat Certified System Administrator (RHCSA)
 - CompTIA CySA+
